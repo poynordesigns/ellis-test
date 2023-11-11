@@ -1,4 +1,0 @@
-Sitemap: http://www.farmbedbreakfasthereford.co.uk/sitemap.xml
-
-User-agent: *
-Disallow: /fbsend.php
